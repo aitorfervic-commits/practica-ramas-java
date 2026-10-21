@@ -10,6 +10,7 @@ public static void mostrarSaludo(String nombre) {
     System.out.println("Hola, " + nombre + "!");
     System.out.println("Bienvenido/a a la práctica de Git.");
     System.out.println("==============================");
+    System.out.println("esta linea es en la rama remota");
 }
     }
 
