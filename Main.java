@@ -16,6 +16,6 @@ public static void mostrarSaludo(String nombre) {
 public static int sumar(int a, int b) {
     System.out.println("Sumando " + a + " + " + b + "...");
     int resultado = a + b;
+    System.out.println("este mensaje es desde la rama remota");
     return resultado;
-}
 }
